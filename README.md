@@ -1,11 +1,6 @@
-## My Project
+## amp-k8s-config-examples
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+This repository hosts sample configuration files for customers to connect and push observability data to the Amazon Managed Service for Prometheus (AMP). This includes open source default configurations for Prometheus including Kubernetes (k8s) Helm charts and Operators.
 
 ## Security
 
