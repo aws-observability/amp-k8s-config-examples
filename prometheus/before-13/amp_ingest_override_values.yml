@@ -2,9 +2,6 @@
 ## For the rest of prometheus helm chart values see: https://github.com/prometheus-community/helm-charts/blob/main/charts/prometheus/values.yaml
 ##
 serviceAccounts:
-  server:
-    name: amp-iamproxy-ingest-service-account
-
   ## Disable alert manager roles
   ##
   alertmanager:
